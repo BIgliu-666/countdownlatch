@@ -17,5 +17,6 @@ public class CountDownLatchDemo {
         }
 
         System.out.println("最后执行");
+        System.out.println("测试");
     }
 }
